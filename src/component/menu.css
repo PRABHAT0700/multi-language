@@ -1,0 +1,68 @@
+.menu-wrapper{
+    height: 60px;
+    width: 100%;
+    margin-top: -50px;
+    background-color: #092237e0;
+   
+}
+
+.menu-wrapper2{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.menu-wrapper a{
+    text-decoration: none;
+    color: white;
+}
+
+.menu-wrapper a:hover{
+    color: rgb(223, 192, 115);
+}
+
+.dropmenu{
+    height: 35px;
+    width: 150px;
+    font-size: .9rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lan{
+    margin-top: -40px;
+}
+
+@media screen and (max-width: 786px) {
+
+    body{
+        background-image: url(https://e0.pxfuel.com/wallpapers/481/46/desktop-wallpaper-cute-night-nature.jpg);
+    }
+   
+    .menu-wrapper2{
+        width: 80%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        
+    }
+
+    .menu-wrapper a{
+        text-decoration: none;
+        color: white;
+        font-size: 0.9rem;
+        margin-top: 20px;
+    }
+
+    .dropmenu{
+        height: 25px;
+        width: 70px;
+        font-size: .9rem;
+        margin-top: 10px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+  }
+

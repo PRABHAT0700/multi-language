@@ -1,0 +1,19 @@
+{
+    "welcome": "i'm Prabhat",
+    "contact": "Front-end Developer",
+    "channel":" 'Engineer valued for driving high-performance",
+    "dashboard":"accessible web experiences.",
+    "about": "I design quality, user-friendly and scalable products",
+    "holiday":" regardless of stack' ",
+
+    "f-name":"First-name",
+    "l-name":"Last-name",
+    "father":"Father-name",
+    "fmail":"Email-id",
+    "password":"password",
+    "confirm":"confirm-password",
+    "submit":"SUBMIT",
+
+    "aboutUs":"Welcome to my world of web development! I'm Prabhat Mishra, a seasoned front-end developer dedicated to crafting captivating and user-centric digital experiences. With expertise in HTML5, CSS3, JavaScript, and popular frameworks like React and Vue.js, I'm committed to turning your vision into a visually stunning and highly functional reality. I believe in close collaboration and open communication, ensuring your ideas take center stage. With a continuous learning mindset, I stay ahead of industry trends, delivering forward-thinking solutions. Explore my portfolio to see a diverse range of projects, from sleek corporate sites to dynamic e-commerce platforms. Let's work together to build something extraordinary for your brand. Get in touch today!"
+
+}
